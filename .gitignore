@@ -1,0 +1,10 @@
+# https://github.com/github/gitignore/blob/main/Scala.gitignore
+*.class
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# scala run artifacts
+.bsp
+.scala-build
