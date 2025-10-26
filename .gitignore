@@ -8,3 +8,6 @@ hs_err_pid*
 # scala run artifacts
 .bsp
 .scala-build
+
+# neovim artifacts
+.metals
